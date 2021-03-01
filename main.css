@@ -1,0 +1,202 @@
+
+h2
+{
+	font-size: 70px;
+	padding-left: 20px;
+	padding-top: 50px;
+    font-family: monospace;
+	font-style: italic;
+    color: lightgray;
+
+}
+
+
+h3
+{
+	font-size: 50px;
+    color: #9fde0b;
+	text-align:center;
+}
+
+h4
+{
+	font-size: 30px;
+      color: #9fde0b;
+	  text-align:center;
+
+}
+*
+{
+	margin: 0px auto;
+	padding: 0px auto;
+	box-sizing: border-box;
+}
+
+
+
+
+
+p
+{
+
+	padding-top: 20px;
+	font-size: 30px;
+    color: lightgray;
+    margin-left: 10px;
+	font-family: monospace;
+	font-style: italic;
+}
+
+.error
+{
+    color:red;
+	}
+table a{
+    color: black;
+}
+table a:hover{
+    color: grey;
+}
+input[type=text]
+{
+
+		  width: 100%;
+		  padding: 10px 20px;
+		  margin: 8px 0;
+		  box-sizing: border-box;
+
+		}
+input[type=submit]
+{
+		  background-color: #383838;
+		  border: none;
+		  color: white;
+		  padding: 12px 24px;
+		  text-decoration: none;
+		  margin: 4px 2px;
+		  cursor: pointer;
+		  width:130px;
+		  margin-left:260px;
+
+		}
+
+ul {
+    list-style-type: none;
+    margin: 50;
+    padding: 30;
+    overflow: hidden;
+    background-color: #5e5e5e;
+
+}
+
+li {
+
+    float: left;
+	margin-left:95px;
+	margin-right:95px;
+	font-size: 1.5em;
+}
+
+li a {
+    display: flex;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:black;
+}
+
+
+
+footer
+{
+	background-color: #383838;
+	font-size: 1.5em;
+	font-style: italic;
+	text-align: center;
+	color: white;
+	padding: 0.5em;
+	  margin:0;
+}
+
+table
+{
+	width: 60%;
+	border-collapse: collapse;
+	margin:0px auto;
+}
+
+tr
+{
+	background: lightgray;
+}
+
+th
+{
+	background:#5e5e5e;
+	color: white;
+	font-weight: bold;
+}
+
+td, th
+{
+	padding: 10px;
+	border:3px solid #5e5e5e;
+	text-align: left;
+}
+
+
+#home
+{
+	background-image: url(image/background.jpg);
+	background-repeat: no-repeat;
+	height: 860px;
+	width: 1080px;
+}
+
+
+
+#table
+{
+	padding-top: 25px;
+
+}
+
+#quote
+{
+	float: right;
+	margin-left: 820px;
+	text-align: center;
+}
+
+#form
+{
+	float: left;
+	margin-top: 100px;
+	margin-left: 200px;
+	font-size: 25px;
+    color: #bdbdbd;
+
+}
+
+
+
+#about_quote
+{
+	padding-top: 230px;
+	margin-right: 500px;
+	float: left;
+	text-align: center;
+}
+
+#contact_details
+{
+	float: left;
+	padding-left: 80px;
+	padding-top: 280px;
+}
+
+
